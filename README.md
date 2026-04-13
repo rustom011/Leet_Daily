@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rustom011/Leet_Daily/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rustom011/Leet_Daily/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 <!---LeetCode Topics End-->
